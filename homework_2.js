@@ -15,7 +15,7 @@ true + false // 1
 "4" - 2 // 2
 "4px" - 2 //2px
 7 / 0 // Number/ infinity
-"  -9  " + 5 // -4
+"  -9  " + 5 // "-95"
 "  -9  " - 5 // -14
 null + 1 // 1
 undefined + 1 // NaN
